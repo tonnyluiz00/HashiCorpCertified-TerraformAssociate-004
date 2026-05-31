@@ -1,1 +1,1 @@
-# -HashiCorpCertified-TerraformAssociate-004-
+# HashiCorpCertified-TerraformAssociate-004-
