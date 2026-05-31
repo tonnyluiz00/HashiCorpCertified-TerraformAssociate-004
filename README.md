@@ -1,0 +1,1 @@
+# -HashiCorpCertified-TerraformAssociate-004-
